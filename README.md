@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**jo-nunes13/jo-nunes13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on nothing
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: go to my personal e-mail: jonathandacostanunes2006@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I like digital art
--->
+
