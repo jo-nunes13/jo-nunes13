@@ -5,9 +5,9 @@ No momento estou estudando no CTISM, 1º ano do Ensino Médio e do Técnico de I
 
 ##Hobbies :sunrise_over_mountains:
 No meu tempo livre, eu gosto de...
-* jogar videogames
-* ler algum livro
-* fazer arte digital
+* Jogar videogames
+* Ler algum livro
+* Fazer arte digital
 * Assistir alguma série
 * Sair com amigos e família
-
+* Jogar/Assistir RPG de mesa
