@@ -15,6 +15,9 @@ No meu tempo livre, eu gosto de...
 ![](https://pbs.twimg.com/media/EIX3czDWoAI80Ik?format=jpg&name=900x900)
 >Sim, esse sou eu jogando rpg :eyes:
 
+## Linguagens que estou aprendendo
+* Por enquanto só **C** mesmo
+
 ## Para entrar em contato comigo:
 * Esse aqui é o meu **e-mail pessoal**: jonathandacostanunes2006@gmail.com
 * Esse aqui é o meu **e-mail acadêmico**: jonathan.nunes@esc.nd.org.br
@@ -25,3 +28,5 @@ Tenho [Insta](https://www.instagram.com/jo_2945_/), mas por enquanto não tem na
 ### Meme de Gatinho pra descontrair
 ![](https://img.quizur.com/f/img5c22d768d51465.93685599.jpg?lastEdited=1545787246)
 >Uau, você chegou até aqui! Obrigado pela atenção! :smiley:
+
+###### --- .. / -.-. ..- .-. .. --- ... --- --..-- / - ..- -.. --- / -... . -- ..--..
