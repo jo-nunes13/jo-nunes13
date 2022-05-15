@@ -1,6 +1,6 @@
 # Olá!!! :wave:
 
-![](https://i.gifer.com/3Hw.mp4)
+![](https://i.gifer.com/3Hw.gif)
 
 Eu sou o Jonathan, tenho 15 anos, sou brasileiro nascido em Santa Maria, RS.
 No momento estou estudando no CTISM, fazendo o Técnico em Informática.
